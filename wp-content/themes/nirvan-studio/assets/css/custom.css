@@ -1,0 +1,15 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+.heading-lg{
+	font-size: 2rem;
+}
+@media only Screen and (min-width:767px){
+	.heading-lg{
+		font-size: 3.2rem;
+	}
+}
