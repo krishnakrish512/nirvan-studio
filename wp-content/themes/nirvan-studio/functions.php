@@ -2,7 +2,8 @@
 
 $include_files = [
     "src/setup.php",
-    "src/acf.php"
+    "src/acf.php",
+    "src/filter.php"
 
 ];
 

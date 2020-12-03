@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="265ad0dc-f222-4851-a259-2668868b2c65" name="Default Changelist" comment="" />
+    <list default="true" id="265ad0dc-f222-4851-a259-2668868b2c65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/about_banner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/banner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/client_feedback.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/experience.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/home_banner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/our_clients.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/works_project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/filter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index--.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/slider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/setup.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/setup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/works.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,16 +42,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kBR2AVXOiM0NycRA7XZUwapi0K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sonas" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Credit co-operative ltd" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="ServiceViewManager">
@@ -55,7 +91,13 @@
       <updated>1605171788551</updated>
       <workItem from="1605171791697" duration="16827000" />
       <workItem from="1605241202298" duration="9281000" />
-      <workItem from="1605588006868" duration="18478000" />
+      <workItem from="1605588006868" duration="27790000" />
+      <workItem from="1605673246663" duration="25755000" />
+      <workItem from="1605761097481" duration="3334000" />
+      <workItem from="1605766760419" duration="14219000" />
+      <workItem from="1605847697915" duration="12355000" />
+      <workItem from="1606107777873" duration="19325000" />
+      <workItem from="1606192401052" duration="15528000" />
     </task>
     <servers />
   </component>
@@ -63,25 +105,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Deployment" timestamp="1605258269043">
+    <state x="275" y="23" key="#Deployment" timestamp="1605787593091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="23" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1605258269043" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1605242080302">
+    <state x="275" y="23" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1605787593091" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1606221720233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605242080302" />
-    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1605601209144">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606221720233" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1605881236966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605601209144" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1605588007354">
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605881236966" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1606192405929">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605588007354" />
-    <state x="568" y="95" key="ftp.server.browser" timestamp="1605258263343">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606192405929" />
+    <state x="568" y="95" key="ftp.server.browser" timestamp="1605787573360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="568" y="95" key="ftp.server.browser/0.0.1366.728@0.0.1366.728" timestamp="1605258263343" />
+    <state x="568" y="95" key="ftp.server.browser/0.0.1366.728@0.0.1366.728" timestamp="1605787573360" />
   </component>
 </project>

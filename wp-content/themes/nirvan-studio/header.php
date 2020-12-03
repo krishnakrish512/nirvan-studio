@@ -54,7 +54,7 @@
 
                     <div class="header-misc d-none d-md-block">
                         <a href="#" class="button button-border rounded-pill" data-scrollto="#footer"
-                           data-easing="easeInOutExpo" data-speed="1250" data-offset="0">Get Quote</a>
+                           data-easing="easeInOutExpo" data-speed="1250" data-offset="-245">Get Quote</a>
                     </div>
 
                     <div id="primary-menu-trigger">
@@ -74,19 +74,6 @@
                         'menu_class' => 'menu-container',
                         'container_class' => 'primary-menu'
                     )); ?>
-
-                    <!--                    <nav class="primary-menu">-->
-                    <!---->
-                    <!-- Menu Left -->
-                    <!--                        <ul class="menu-container">-->
-                    <!--                            <li class="menu-item"><a class="menu-link" href="about.html"><div>About me</div></a></li>-->
-                    <!--                            <li class="menu-item"><a class="menu-link" href="works.html"><div>Works</div></a></li>-->
-                    <!--                            <li class="menu-item"><a class="menu-link" href="services.html"><div>Services</div></a></li>-->
-                    <!--                            <li class="menu-item"><a class="menu-link" href="#"><div>Contact</div></a></li>-->
-                    <!--                        </ul>-->
-                    <!---->
-                    <!--                    </nav>-->
-                    <!-- #primary-menu end -->
 
                 </div>
             </div>
