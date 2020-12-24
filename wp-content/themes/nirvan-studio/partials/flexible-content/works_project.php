@@ -25,7 +25,7 @@
     </div><!--section-->
     <div class="section bg-white m-0">
         <div class="container">
-            <div class="row justify-content-center col-mb-50 mb-0 ">
+            <div class="row justify-content-center col-mb-50 mb-5 ">
                 <?php while (have_rows('works')):
                     the_row();
 
