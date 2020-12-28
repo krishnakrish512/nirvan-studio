@@ -23,8 +23,7 @@
         <div class="row justify-content-center col-mb-50 ">
             <?php while (have_rows('works')):
                 the_row();
-
-                ?>
+            ?>
 
             <div class="col-lg-6 h-translatey-3 tf-ts  wow fadeInUp" data-wow-duration="0.4s"
                  data-wow-delay="0.5s">
@@ -53,5 +52,12 @@
             </div>
             <?php endwhile; ?>
         </div>
+        <?php if (!is_front_page()){?>
+        <div class="col-auto wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.4s">
+            <a href="" class="button button-dark button-border rounded-pill">View
+                All Works <i
+                    class="icon-line-arrow-right"></i></a>
+        </div>
+        <?php }?>
     </div>
 </div>

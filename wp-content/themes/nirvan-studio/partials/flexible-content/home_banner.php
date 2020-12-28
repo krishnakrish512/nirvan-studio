@@ -21,13 +21,13 @@
                     <div class="row justify-content-center text-center mt-5">
                         <div class="col-lg-7">
                             <div class="">
-                                <?php the_sub_field('heading'); ?>
-<!--                                <h3 class="font-weight-bolder h2 mb-4 wow fadeInUp mb-5" data-wow-duration="0.4s"-->
-<!--                                    data-wow-delay="0.2s">Our experts have <span class="gradient-text gradient-horizon"> 10+ years</span>-->
+                                <h3 class="font-weight-bolder h2 mb-4 wow fadeInUp mb-5" data-wow-duration="0.4s"
+                                    data-wow-delay="0.2s"> <?php the_sub_field('heading'); ?>
+<!--                                    Our experts have <span class="gradient-text gradient-horizon"> 10+ years</span>-->
 <!--                                    of work experience in <span-->
 <!--                                            class="gradient-text gradient-horizon"> Web Development</span>. We have been-->
 <!--                                    able to provide <span class="gradient-text gradient-horizon"> 100% customer satisfaction. </span>-->
-<!--                                </h3>-->
+                                </h3>
 
                             </div>
                         </div>

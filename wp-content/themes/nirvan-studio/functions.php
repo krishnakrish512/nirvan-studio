@@ -3,7 +3,9 @@
 $include_files = [
     "src/setup.php",
     "src/acf.php",
-    "src/filter.php"
+    "src/filter.php",
+    "src/custom_post_type.php",
+    "src/helper.php"
 
 ];
 
