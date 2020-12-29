@@ -10,16 +10,17 @@
                     <p class="lead mb-0 wow fadeInUp" data-wow-duration="0.4s"
                     data-wow-delay="0.4s"><?php the_sub_field('paragraph'); ?> </p>
                 </div>
-            </div>
+
+            </div><!--col-->
             <?php if (!is_page('works')){?>
             <div class="col-auto wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.4s">
                 <a href="<?php the_sub_field('button_url'); ?>" class="button button-dark button-border rounded-pill">View
-                    All Works <i
-                            class="icon-line-arrow-right"></i></a>
-            </div>
+                    All Works <i class="icon-line-arrow-right"></i></a>
+            </div><!--col-auto-->
             <?php }?>
         </div><!-- End Row-->
-        <div class="row justify-content-center col-mb-50 mb-0 ">
+        <div class="row justify-content-center col-mb-50 mb-5 ">
+
                 <?php while (have_rows('works')):
                     the_row();
 
@@ -49,8 +50,15 @@
                             </div>
                         </div>
                     </a><!--Portfolio-item-->
-                </div>
+                </div><!--col-lg-->
                 <?php endwhile; ?>
             </div><!-- Row -->
-    </div> <!--container -->
+            <?php if (!is_front_page()){?>
+                <div class="text-center wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.4s">
+                    <a href="" class="button button-dark button-border rounded-pill">View
+                        All Works <i class="icon-line-arrow-right"></i></a>
+                </div>
+            <?php }?>
+        
+    </div><!--container-->
 </div>

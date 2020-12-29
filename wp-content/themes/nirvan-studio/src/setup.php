@@ -32,7 +32,7 @@ function register_scripts(){
     }
     wp_enqueue_script('plugins-script', get_template_directory_uri() . '/assets/js/plugins.min.js', [], 1.0, true);
     wp_enqueue_script('functions-script', get_template_directory_uri() . '/assets/js/functions.js', [], 1.0, true);
-    wp_enqueue_script('functions-script', get_template_directory_uri() . '/assets/js/wow.min.js', [], 1.0, true);
+    wp_enqueue_script('wow-script', get_template_directory_uri() . '/assets/js/wow.min.js', [], 1.0, true);
     wp_enqueue_script('custom-script', get_template_directory_uri() . '/assets/js/custom.js', [], 1.0, true);
 }
 add_action('wp_enqueue_scripts', 'register_scripts');

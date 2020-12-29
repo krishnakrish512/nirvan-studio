@@ -35,10 +35,10 @@
                             </li>
                             <li class="mb-2"><a href="tel:+977 9851085859" class="text-black-50"><?= $contact['phone_number']; ?></a>
                             </li>
-                            <li class="mb-2"><a href="<?= $contact['websiteurl']; ?>" class="text-black-50"> www.nirvan.studio</a>
+                            <li class="mb-2"><a href="<?= $contact['websiteurl']; ?>" class="text-black-50">www.nirvanstudio.com</a>
                             </li>
                         </ul>
-                        <a href="mailto:info@nirvan.studio" class="h4 text-dark mt-5 mb-4 d-block wow fadeInUp"
+                        <a href="mailto:info@nirvanstudio.com" class="h4 text-dark mt-5 mb-4 d-block wow fadeInUp"
                            data-wow-duration="0.4s" data-wow-delay="0.2s"><u><?= $contact['email']; ?></u> <i
                                     class="icon-line-arrow-right position-relative ml-2" style="top: 3px"></i></a>
                         <div class="wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.3s">

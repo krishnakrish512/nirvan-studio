@@ -2,28 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="265ad0dc-f222-4851-a259-2668868b2c65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/about_banner.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/banner.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/client_feedback.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/experience.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/home_banner.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/our_clients.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/works_project.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/filter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/archive-career.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/archive-career.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index--.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/slider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/career.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/career.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/home_banner.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/home_banner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/portfolio.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/portfolio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/work_content.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/work_content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/works_project.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/works_project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/single-career.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/single-career.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/custom_post_type.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/custom_post_type.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/helper.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/setup.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/setup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/works.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +58,13 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Credit co-operative ltd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../photosofnepal" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\wamp64\www\nirvan-studio\wp-content\themes\nirvan-studio\partials\flexible-content" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -98,29 +97,59 @@
       <workItem from="1605847697915" duration="12355000" />
       <workItem from="1606107777873" duration="19325000" />
       <workItem from="1606192401052" duration="15528000" />
+      <workItem from="1606985295429" duration="1275000" />
+      <workItem from="1607056616750" duration="617000" />
+      <workItem from="1607317624118" duration="1674000" />
+      <workItem from="1607346298225" duration="1677000" />
+      <workItem from="1607405572423" duration="50000" />
+      <workItem from="1607576120793" duration="9275000" />
+      <workItem from="1607599624634" duration="749000" />
+      <workItem from="1608789842696" duration="20331000" />
+      <workItem from="1608872004685" duration="655000" />
+      <workItem from="1608879720584" duration="1490000" />
+      <workItem from="1608888071998" duration="7687000" />
+      <workItem from="1608901066645" duration="2350000" />
+      <workItem from="1609131423485" duration="3516000" />
+      <workItem from="1609138292431" duration="1377000" />
+      <workItem from="1609146345904" duration="5427000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Deployment" timestamp="1605787593091">
+    <state x="275" y="23" key="#Deployment" timestamp="1608902903142">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="23" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1605787593091" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1606221720233">
+    <state x="275" y="23" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1608902903142" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1609152189997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606221720233" />
-    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1605881236966">
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1609152189997" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1609152875607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605881236966" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1606192405929">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609152875607" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1608889899243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606192405929" />
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1608889899243" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1609131423091">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609131423091" />
     <state x="568" y="95" key="ftp.server.browser" timestamp="1605787573360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
