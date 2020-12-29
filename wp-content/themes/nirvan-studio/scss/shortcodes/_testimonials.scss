@@ -121,7 +121,7 @@ $testimonial-prefix: testimonial;
 	overflow: hidden;
 	p {
 		margin-bottom: 0;
-		font-family: $testimonials-font;
+		font-family:  'Heebo', sans-serif !important;
 		font-style: $testimonials-font-style;
 		&::before {
 			content: $testimonials-quote-content;

@@ -1,6 +1,6 @@
 <!-- Footer
 ============================================= -->
-<footer id="footer" class="border-0" style="background-color: #C9D6CF;padding-top: 140px;margi-top:0;">
+<footer id="footer" class="border-0" style="background-color: #C9D6CF;padding-top: 140px;margin-top:0;">
 
     <?php $contact = get_field('contact', 'option'); ?>
     <?php $social = get_field('social', 'option'); ?>

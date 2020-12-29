@@ -18,7 +18,7 @@
                      data-flip-vertical="true"
                      data-fill="#F4F4F4"></div>
                 <div class="container">
-                    <div class="row justify-content-center text-center mt-5">
+                    <div class="row justify-content-center text-center mt-5 gradient-text-adjust">
                         <div class="col-lg-7">
                             <div class="">
                                 <?php the_sub_field('heading'); ?>
@@ -33,7 +33,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center position-relative">
+                <div class="d-flex justify-content-center position-relative mt-4">
                     <div class="parallax min-vh-75"
                          style="background-image: url('<?php echo $image ?>'); background-size: cover; background-position: center center;"
                          data-bottom-top="width: 40vw" data-center-top="width: 100vw;">

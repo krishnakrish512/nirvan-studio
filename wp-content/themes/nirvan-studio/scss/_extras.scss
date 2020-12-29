@@ -362,3 +362,66 @@ label{
 	-webkit-animation-name: fadeOutUpSmall;
 	animation-name: fadeOutUpSmall;
 }
+.list-group{
+	&-item{
+		a{
+			color: inherit;
+		}
+	}
+}
+.service-card{
+	[class*="col-"]{
+		&:nth-child(1){
+			.card{
+				background-color: #E2E8D8;
+			}
+		}
+		&:nth-child(2){
+			.card{
+				background-color: #C2DFEC;
+			}
+		}
+		&:nth-child(3){
+			.card{
+				background-color: #FADCE4;
+			}
+		}
+		&:nth-child(4){
+			.card{
+				background-color: #E4E4E4;
+			}
+		}
+		&:nth-child(5){
+			.card{
+				background-color: #E5E3CE;
+			}
+		}
+		&:nth-child(6){
+			.card{
+				background-color: #C9D6CF;
+			}
+		}
+	}
+}
+.portfolio-item li{
+	padding: 0.45rem 0;
+	border:none;
+}
+.iconlist{
+	li{
+		position: relative;
+		padding-left: 10px;
+		.icon-ok{
+			position: absolute;
+			left: 0;
+			top: 0;
+
+		}
+	}
+}
+.gradient-text-adjust{
+	.gradient-text{
+			display: inline-block;
+			margin-right: -3px;
+	}
+}

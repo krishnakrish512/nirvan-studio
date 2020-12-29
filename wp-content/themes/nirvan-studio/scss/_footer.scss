@@ -13,6 +13,7 @@
 	position: relative;
 	background-color: $footer-bg;
 	border-top: $footer-top-border;
+	margin-top: 0 !important;
 }
 
 @if $footer-sticky-global {
