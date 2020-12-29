@@ -9,3 +9,9 @@ $('a[href*="#footer"]').on('click', function (e) {
         'easeInOutExpo'
     )
 });
+$(function() {
+    var loc = window.location.href; // returns the full URL
+    if(/works/.test(loc)) {
+      $('#works').addClass('bg-transparent');
+    }
+  });

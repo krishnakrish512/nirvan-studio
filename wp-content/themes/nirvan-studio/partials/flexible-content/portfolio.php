@@ -1,4 +1,4 @@
-<div class="section m-0 bg-white ">
+<div class="section m-0 bg-transparent pt-0 ">
     <div class="container">
         <div id="portfolio" class="portfolio row grid-container gutter-30">
             <?php while (have_rows('portfolio_repeater')):
