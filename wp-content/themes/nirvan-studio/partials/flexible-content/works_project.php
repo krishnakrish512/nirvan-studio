@@ -55,7 +55,7 @@
             </div><!-- Row -->
             <?php if (!is_front_page()){?>
                 <div class="text-center wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.4s">
-                    <a href="" class="button button-dark button-border rounded-pill">View
+                    <a href="https://nirvanstudio.com/works-all" class="button button-dark button-border rounded-pill">View
                         All Works <i class="icon-line-arrow-right"></i></a>
                 </div>
             <?php }?>
