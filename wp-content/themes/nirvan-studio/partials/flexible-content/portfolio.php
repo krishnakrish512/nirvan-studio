@@ -14,7 +14,7 @@
                                 <ul class="list-group">
                                     <li class="list-group-item d-flex"><i class="icon-line-check-circle mr-2"></i> <a
                                                 href="<?php the_sub_field('portfolio_link'); ?>">
-                                                <?php the_sub_field('portfolio_title'); ?></a>
+                                                <?php the_sub_field('portfolio_title'); ?> </a>
                                     </li>
                                 </ul>
                             <?php endwhile; ?>
