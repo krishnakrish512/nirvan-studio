@@ -52,7 +52,7 @@
                         </div>
                     </a><!--Portfolio-item-->
                 </div><!--col-lg-->
-<<<<<<< HEAD
+
             <?php endwhile; ?>
         </div><!-- Row -->
         <?php if (!is_front_page()) { ?>
@@ -63,16 +63,6 @@
             </div>
         <?php } ?>
 
-=======
-                <?php endwhile; ?>
-            </div><!-- Row -->
-            <?php if (!is_front_page()){?>
-                <div class="text-center wow fadeInUp" data-wow-duration="0.4s" data-wow-delay="0.4s">
-                    <a href="https://nirvanstudio.com/works-all" class="button button-dark button-border rounded-pill">View
-                        All Works <i class="icon-line-arrow-right"></i></a>
-                </div>
-            <?php }?>
-        
->>>>>>> 060d0854e365e65461e47963902f6532c8790d13
+
     </div><!--container-->
 </div>
