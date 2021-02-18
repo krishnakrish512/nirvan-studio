@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="265ad0dc-f222-4851-a259-2668868b2c65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/portfolio.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/portfolio.php" afterDir="false" />
+=======
+>>>>>>> 060d0854e365e65461e47963902f6532c8790d13
       <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/works_project.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/works_project.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,8 +102,12 @@
       <workItem from="1609131423485" duration="3516000" />
       <workItem from="1609138292431" duration="1377000" />
       <workItem from="1609146345904" duration="5427000" />
+<<<<<<< HEAD
       <workItem from="1611666648580" duration="847000" />
       <workItem from="1611842837628" duration="488000" />
+=======
+      <workItem from="1611667723097" duration="60000" />
+>>>>>>> 060d0854e365e65461e47963902f6532c8790d13
     </task>
     <servers />
   </component>
