@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="dev">
+  <component name="PublishConfigData" serverName="live">
     <serverData>
-      <paths name="dev">
+      <paths name="live">
         <serverdata>
           <mappings>
-            <mapping deploy="/public_html/nirvan-studio" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/public_html" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

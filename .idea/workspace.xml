@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="265ad0dc-f222-4851-a259-2668868b2c65" name="Default Changelist" comment="">
+    <list default="true" id="332667af-937c-404b-ac96-c985a255925c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nirvan-studio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nirvan-studio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/portfolio.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/portfolio.php" afterDir="false" />
-=======
->>>>>>> 060d0854e365e65461e47963902f6532c8790d13
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/works_project.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/partials/flexible-content/works_project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nirvan-studio/src/helper.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,142 +17,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1kBR2AVXOiM0NycRA7XZUwapi0K" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1ohSeX1N0kFzprftTXYpxyHrsZE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/nirvan-studio/assets/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\wamp64\www\nirvan-studio\wp-content\themes\nirvan-studio\partials\flexible-content" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\nirvan-studio\wp-content\themes\nirvan-studio\assets\images" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="265ad0dc-f222-4851-a259-2668868b2c65" name="Default Changelist" comment="" />
-      <created>1605171788551</created>
+      <changelist id="332667af-937c-404b-ac96-c985a255925c" name="Default Changelist" comment="" />
+      <created>1613737442979</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605171788551</updated>
-      <workItem from="1605171791697" duration="16827000" />
-      <workItem from="1605241202298" duration="9281000" />
-      <workItem from="1605588006868" duration="27790000" />
-      <workItem from="1605673246663" duration="25755000" />
-      <workItem from="1605761097481" duration="3334000" />
-      <workItem from="1605766760419" duration="14219000" />
-      <workItem from="1605847697915" duration="12355000" />
-      <workItem from="1606107777873" duration="19325000" />
-      <workItem from="1606192401052" duration="15528000" />
-      <workItem from="1606985295429" duration="1275000" />
-      <workItem from="1607056616750" duration="617000" />
-      <workItem from="1607317624118" duration="1674000" />
-      <workItem from="1607346298225" duration="1677000" />
-      <workItem from="1607405572423" duration="50000" />
-      <workItem from="1607576120793" duration="9275000" />
-      <workItem from="1607599624634" duration="749000" />
-      <workItem from="1608789842696" duration="20331000" />
-      <workItem from="1608872004685" duration="655000" />
-      <workItem from="1608879720584" duration="1490000" />
-      <workItem from="1608888071998" duration="7687000" />
-      <workItem from="1608901066645" duration="2350000" />
-      <workItem from="1609131423485" duration="3516000" />
-      <workItem from="1609138292431" duration="1377000" />
-      <workItem from="1609146345904" duration="5427000" />
-<<<<<<< HEAD
-      <workItem from="1611666648580" duration="847000" />
-      <workItem from="1611842837628" duration="488000" />
-=======
-      <workItem from="1611667723097" duration="60000" />
->>>>>>> 060d0854e365e65461e47963902f6532c8790d13
+      <updated>1613737442979</updated>
+      <workItem from="1613737445179" duration="1708000" />
+      <workItem from="1613740963533" duration="1156000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Deployment" timestamp="1608902903142">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="23" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1608902903142" />
-    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1609152189997">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1609152189997" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1609152875607">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609152875607" />
-    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1608889899243">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1608889899243" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1609131423091">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609131423091" />
-    <state x="568" y="95" key="ftp.server.browser" timestamp="1605787573360">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="568" y="95" key="ftp.server.browser/0.0.1366.728@0.0.1366.728" timestamp="1605787573360" />
+    <option name="version" value="3" />
   </component>
 </project>

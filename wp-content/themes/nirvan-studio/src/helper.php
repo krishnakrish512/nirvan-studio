@@ -1,4 +1,5 @@
 <?php
+
 use function NextGenImage\getImageInWebp;
 use function NextGenImage\resizeImage;
 
@@ -10,16 +11,15 @@ use function NextGenImage\resizeImage;
  *
  * @return array
  */
-function getResizedImage($url, $size = array())
-{
-    $webpImage = getImageInWebp(ABSPATH . str_replace(site_url(), "", $url), $size);
-    $fileType = wp_check_filetype($url);
-    $image = resizeImage(ABSPATH . str_replace(site_url(), "", $url), $fileType['ext'], $size);
+function getResizedImage( $url, $size = array() ) {
+	$webpImage = getImageInWebp( ABSPATH . str_replace( site_url(), "", $url ), $size );
+	$fileType  = wp_check_filetype( $url );
+	$image     = resizeImage( ABSPATH . str_replace( site_url(), "", $url ), $fileType['ext'], $size );
 
-    return array(
-        'webp' => $webpImage,
-        'orig' => $image
-    );
+	return array(
+		'webp' => $webpImage,
+		'orig' => $image
+	);
 }
 
 
@@ -31,11 +31,11 @@ function ecommerce_share_meta() {
 	global $post;
 
 	if ( $post ) {
-		if (is_singular('career')) {
+		if ( is_singular( 'career' ) ) {
 //			$career = wc_get_career( $post->ID );
 
-			$image_url = get_the_post_thumbnail_url($post->ID, 'full');
-			$image = getResizedImage( $image_url, [ 300, 156 ] );
+			$image_url = get_the_post_thumbnail_url( $post->ID, 'full' );
+			$image     = getResizedImage( $image_url, [ 300, 156 ] );
 //            var_dump($image);
 //            exit();
 
@@ -43,10 +43,22 @@ function ecommerce_share_meta() {
             <meta property="og:url" content="<?= get_the_permalink( $post->ID ) ?>"/>
             <meta property="og:type" content="website"/>
             <meta property="og:title" content="<?php the_title(); ?>"/>
-            <meta property="og:description" content="<?php the_content();?>"/>
+            <meta property="og:description" content="<?php the_content(); ?>"/>
             <meta property="og:image" content="<?= $image['orig'] ?>"/>
             <meta property="og:image:width" content="300"/>
             <meta property="og:image:height" content="156"/>
+			<?php
+		}
+
+		if ( is_front_page() ) {
+			?>
+            <meta property="og:url" content="<?= esc_url( get_home_url() ) ?>"/>
+            <meta property="og:type" content="website"/>
+            <meta property="og:title" content="NIRVAN STUDIO"/>
+            <meta property="og:description"
+                  content="We offer you service to digitally fine-tune your business. We are a Website development company based in Kathmandu, Nepal."/>
+            <meta property="og:image"
+                  content="<?= get_template_directory_uri() . '/assets/images/nirvan-logo-for-fb.png' ?>"/>
 			<?php
 		}
 	}
